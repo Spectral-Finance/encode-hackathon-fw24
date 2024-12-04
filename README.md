@@ -2,7 +2,7 @@
 ## Let the agent decide: Using LLM driven systems for onchain trading decisions
 Launching 25th November, the hackathon is dedicated to supporting innovative projects across all chains led by students.
 
-The Spectral bounty is for teams interested in building with LLMs and onchain data. There is a total of $7,000 in prizes to be distributed. $4,000 USD to the winning team, $3,000 USD to the runner-up, and $1,000 USD to the third place team.
+The Spectral bounty is for teams interested in building with LLMs and onchain data. There is a total of $7,000 in prizes to be distributed. $4,000 USD to the winning team, $2,000 USD to the runner-up, and $1,000 USD to the third place team.
 
 
 ## Overview
